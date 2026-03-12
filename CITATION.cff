@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software or architecture in your research, please cite it as below."
+authors:
+  - family-names: "Lee"
+    given-names: "Ethan Khoo Chuen"
+title: "MESA: Macular Ephemeral State-space Architecture"
+version: 1.0.0
+date-released: 2026-03-12
+url: "https://github.com/ElvianElvy/MESA-Doc-to-LoRA-Successor"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Lee"
+      given-names: "Ethan Khoo Chuen"
+  title: "MESA: Overcoming the Infinite-Context and Stability-Plasticity Dilemmas in Hypernetwork-Generated LoRAs"
+  journal: "arXiv preprint"
+  year: 2026
