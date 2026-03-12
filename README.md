@@ -17,6 +17,6 @@ By introducing **Dual-Objective Generative Regularization (KL-Divergence)**, MES
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/ElvianElvy/MESA Project.git
+git clone https://github.com/ElvianElvy/MESA-Doc-to-LoRA-Successor.git
 cd MESA-Doc-to-LoRA-Successor
 pip install torch transformers datasets accelerate tqdm
